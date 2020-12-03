@@ -3,7 +3,7 @@ My contributions to social psychology.
 
 My Social Psychology Network page: [SPN](https://www.socialpsychology.org/member/vaheb)
 
-I also include the assignments and projects I've done for the [Social Psychology course](https://www.coursera.org/learn/social-psychology).
+I also include the assignments and projects I've done for the [Social Psychology course](https://www.coursera.org/learn/social-psychology). They are only accessible to course's participants.
 
 ## Assignments:
 - [x] [Week 3](https://www.coursera.org/learn/social-psychology/peer/MVHcR/assignment-3-post-some-questions-or-comments/review/esv_VqEBEeqvtRJms0nkqQ)
